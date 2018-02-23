@@ -1,0 +1,7 @@
+numpy
+opencv
+pillow
+
+Kairos API
+requests
+flask
